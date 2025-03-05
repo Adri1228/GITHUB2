@@ -10,12 +10,11 @@ public class Main {
 
     }
     private  static void methotd2(){
-
+        System.out.println("que viva la fromula 1!!");
     }
     private  static void methotd3(){
 
     }
     private  static void methotd4(){
-//esto es una prueba para ver como funcionaaaaaa
     }
 }
