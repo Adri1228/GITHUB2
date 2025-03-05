@@ -5,7 +5,6 @@ public class Main {
         methotd3();
         methotd4();
     }
-
     private  static void methotd1(){
         System.out.println("VIVA ER BETIH!!!!");
         System.out.println(17 + 25 +" esto sumas varios numero " + 20 /5);
