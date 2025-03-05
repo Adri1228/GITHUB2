@@ -5,6 +5,7 @@ public class Main {
         methotd3();
         methotd4();
     }
+
     private  static void methotd1(){
 
     }
