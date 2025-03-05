@@ -7,6 +7,7 @@ public class Main {
     }
 
     private  static void methotd1(){
+        System.out.println("VIVA ER BETIH!!!!");
 
     }
     private  static void methotd2(){
