@@ -16,12 +16,10 @@ public class Main {
 
     private  static void methotd3(){
         System.out.println("Kachow");
-
     }
     private  static void methotd4(){
         System.out.println("Mi codigo es mejor cojosnes!!!!!");
         //no cambies mi codigo cujons
         System.out.println("Mis compañeros de clase son unos simios");
-
     }
 }
