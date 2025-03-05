@@ -10,6 +10,7 @@ public class Main {
         System.out.println("VIVA ER BETIH!!!!");
         System.out.println("Chocapick");
 
+
     }
     private  static void methotd2(){
         System.out.println("que viva la fromula 1!!");
