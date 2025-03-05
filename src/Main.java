@@ -14,6 +14,7 @@ public class Main {
 
     }
     private  static void methotd3(){
+        System.out.println("Kachow");
 
     }
     private  static void methotd4(){
